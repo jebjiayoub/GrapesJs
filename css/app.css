@@ -1,0 +1,13 @@
+.gjs-pn-commands {
+    width: 25%;
+    left: 30%;
+    box-shadow: none;
+}
+.gjs-pn-btn.gjs-pn-btn.gjs-pn-active.custom-btn-cancel,
+.gjs-pn-btn.gjs-pn-btn.gjs-pn-active.custom-btn-reset,
+.gjs-pn-btn.gjs-pn-btn.gjs-pn-active.custom-btn-save,
+.gjs-pn-btn.gjs-pn-btn.gjs-pn-active.custom-btn-close {
+    background-color: rgba(0,0,0,0);
+    box-shadow: none;
+    color: #dae5e6;
+}
